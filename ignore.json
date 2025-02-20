@@ -1,0 +1,61 @@
+{
+    "checklists": [
+        {
+            "__typename": "Checklist",
+            "_id": "yryab547JHdz5TnjjYPDL",
+            "contentType": "deal",
+            "contentTypeId": "dcvcl3ZqEkhi5qbFmXqF-",
+            "title": "website testing",
+            "createdUserId": "rJo2jTZpZfADESCrL",
+            "createdDate": "2024-10-17T04:20:38.765Z",
+            "items": [
+                {
+                    "__typename": "ChecklistItem",
+                    "_id": "TI60IUVf9wAE8ts4YupS6",
+                    "checklistId": "yryab547JHdz5TnjjYPDL",
+                    "isChecked": null,
+                    "content": "test1"
+                },
+                {
+                    "__typename": "ChecklistItem",
+                    "_id": "XC65pY0XQeLjZ6c5kgEen",
+                    "checklistId": "yryab547JHdz5TnjjYPDL",
+                    "isChecked": null,
+                    "content": "test2"
+                },
+                {
+                    "__typename": "ChecklistItem",
+                    "_id": "-Xh2EamMMvvlXyIqxfv7Q",
+                    "checklistId": "yryab547JHdz5TnjjYPDL",
+                    "isChecked": null,
+                    "content": "test3"
+                }
+            ]
+        },
+        {
+            "__typename": "Checklist",
+            "_id": "VzYwXh35KaIdCOYsSoV7T",
+            "contentType": "deal",
+            "contentTypeId": "dcvcl3ZqEkhi5qbFmXqF-",
+            "title": "website testing2",
+            "createdUserId": "rJo2jTZpZfADESCrL",
+            "createdDate": "2024-10-17T04:38:44.560Z",
+            "items": [
+                {
+                    "__typename": "ChecklistItem",
+                    "_id": "RqMz9U3evKgMCeIc2oJnf",
+                    "checklistId": "VzYwXh35KaIdCOYsSoV7T",
+                    "isChecked": null,
+                    "content": "test1"
+                },
+                {
+                    "__typename": "ChecklistItem",
+                    "_id": "x8zSUbSiDBietYactMd3e",
+                    "checklistId": "VzYwXh35KaIdCOYsSoV7T",
+                    "isChecked": null,
+                    "content": "test2"
+                }
+            ]
+        }
+    ]
+}
